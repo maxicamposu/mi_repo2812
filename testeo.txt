@@ -1,3 +1,0 @@
-http-> Protocolo.
-asdasadg
-**REPASAR -> Codigos HTTP , encabezados de las peticiones http 
